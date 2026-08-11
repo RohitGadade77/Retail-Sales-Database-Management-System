@@ -1,0 +1,51 @@
+product_name,category,brand,price,stock_quantity
+Backpack,Sports,Dell,12163.68,280
+Smartwatch,Grocery,Nike,24838.5,216
+Camera,Books,Apple,43154.55,199
+Jeans,Books,Apple,22539.54,191
+Backpack,Fashion,Apple,16429.09,107
+Smartphone,Electronics,Adidas,2650.07,12
+Monitor,Fashion,Sony,24061.52,267
+Headphones,Sports,Puma,31168.13,184
+Football,Sports,Adidas,14584.51,211
+Headphones,Sports,Sony,21152.56,171
+Camera,Electronics,Puma,20554.33,85
+Tablet,Fashion,Classmate,8038.1,50
+Football,Fashion,Puma,6985.32,192
+Smartphone,Fashion,Apple,31969.93,297
+Monitor,Grocery,Sony,38842.54,133
+Football,Grocery,Nike,35932.04,149
+Cricket Bat,Grocery,HP,18741.43,62
+Tablet,Fashion,Apple,1785.17,107
+Mouse,Books,Apple,1799.29,297
+Cricket Bat,Electronics,HP,36745.06,14
+T-Shirt,Fashion,Puma,4447.87,284
+Notebook,Grocery,Dell,14288.87,98
+Bottle,Fashion,Classmate,47506.04,279
+Tablet,Books,Nike,16882.85,222
+Monitor,Grocery,Dell,20408.75,30
+T-Shirt,Sports,Adidas,1690.59,294
+Pen,Grocery,Dell,23764.53,251
+Jeans,Grocery,Boat,41200.84,271
+Pen,Fashion,Dell,34726.44,290
+Jeans,Grocery,Dell,30466.99,134
+Mouse,Fashion,Apple,15328.17,24
+Cricket Bat,Books,Apple,38242.62,154
+T-Shirt,Sports,Sony,26424.41,194
+Keyboard,Fashion,Dell,22481.78,298
+Cricket Bat,Electronics,Classmate,29530.82,284
+Bottle,Sports,Nike,39567.61,12
+Headphones,Grocery,HP,48603.79,282
+Football,Electronics,Sony,17108.52,73
+Football,Sports,HP,39823.95,285
+Mouse,Sports,Boat,30385.5,27
+Monitor,Grocery,HP,12827.84,288
+Monitor,Electronics,Dell,35797.59,58
+Shoes,Books,Samsung,20755.21,97
+Laptop,Grocery,Dell,37162.49,97
+Camera,Sports,HP,31069.5,46
+Cricket Bat,Electronics,Samsung,33752.28,285
+Headphones,Electronics,HP,3072.5,31
+Cricket Bat,Books,Boat,15731.39,244
+T-Shirt,Electronics,Apple,38351.61,37
+Smartphone,Books,Puma,34275.33,250
